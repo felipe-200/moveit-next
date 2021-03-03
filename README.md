@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-Essa é uma ferramenta desenvolvida para lembrar o usuario monstrando-lhe um desafio. A cada 25 minutos é mostrado uma notificação ao usuario e monstrado uma missão 
+Essa é uma ferramenta desenvolvida para lembrar o usuario de se exercitar monstrando-lhe um desafio. 
+A cada 25 minutos é mostrado uma notificação com um toque sonoro ao usuario e monstrado uma missão,
 Se o usurio cumprir ele ganhar um quantidade X de XP e a cada 25 minutos vai surgindo novos desafios e assim ganhando mais XP.
 
 A ideia era criar um aplicação que alertasse o usuario que passa tempo demais na frente do computador sem se exercita. 
@@ -15,18 +16,21 @@ Neste projeto foi utilizado muito das funcionalidades do framework reactJS, alé
 
 
 # Tecnologias utilizadas
-## Back end
 ## Front end
 - ReactJs, NextJS, TypeScript
 
 # Dependencias
 ## Instale o nextJS 
 `
-npm install nextJS ou yarn add nextJS
+npm install nextJS
+ou
+yarn add nextJS
 `
 ## E iniciei o programa
 `
-npm run dev ou yarn run dev
+npm run dev
+ou
+yarn run dev
 `
 
 
