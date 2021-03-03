@@ -25,13 +25,17 @@ Neste projeto foi utilizado muito das funcionalidades do framework reactJS, alé
 ## Instale o nextJS 
 `
 npm install nextJS
+`
 ou
+`
 yarn add nextJS
 `
 ## E iniciei o programa
 `
 npm run dev
+`
 ou
+`
 yarn run dev
 `
 
