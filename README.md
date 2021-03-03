@@ -9,18 +9,15 @@ Se o usurio cumprir ele ganhar um quantidade X de XP e a cada 25 minutos vai sur
 A ideia era criar um aplicação que alertasse o usuario que passa tempo demais na frente do computador sem se exercita. 
 Neste projeto foi utilizado muito das funcionalidades do framework reactJS, além dos componentes, hooks foi muito utilizado para construção dessa aplicação
 
-## Layout mobile
-![Mobile 1](https://github.com/felipe-200/meu-site/blob/master/assets/tela1mobile.png)
-
-
 ## Layout web
-![Web 1](https://github.com/felipe-200/meu-site/blob/master/assets/Web/tela2web.png)
+![Web 1](https://github.com/felipe-200/moveit-next/blob/main/assets/web.png)
+![Web 2](https://github.com/felipe-200/moveit-next/blob/main/assets/web1.png)
 
 
 # Tecnologias utilizadas
 ## Back end
 ## Front end
-- ReactJs, NextJS
+- ReactJs, NextJS, TypeScript
 
 # Dependencias
 ## Instale o nextJS 
