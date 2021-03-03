@@ -17,7 +17,9 @@ Neste projeto foi utilizado muito das funcionalidades do framework reactJS, alé
 
 # Tecnologias utilizadas
 ## Front end
-- ReactJs, NextJS, TypeScript
+- ReactJs
+- NextJS
+- TypeScript
 
 # Dependencias
 ## Instale o nextJS 
